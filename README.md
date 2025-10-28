@@ -41,7 +41,7 @@ It provides **separate dashboards for Admins and Employees**, ensuring a clear w
 ### 🔹 Step 1: Admin Login  
 Admin securely logs in to access the task management panel.  
 
-![Admin Login](./AdminLogin2.png)
+![Admin Login](./AdminLogin2.png.png)
 
 ---
 
@@ -51,15 +51,15 @@ Once logged in, the Admin can:
 - Assign tasks to specific employees  
 - Track employee progress with color-coded task tables  
 
-![Admin Dashboard](./AssignTask.png)  
-![Assign Task](./AssignedTask.png)
+![Admin Dashboard](./AssignTask.png.png)  
+![Assign Task](./AssignedTask.png.png)
 
 ---
 
 ### 🔹 Step 3: Employee Login  
 Employees log in using their credentials to view assigned work.  
 
-![Employee Login](./EmployeeLogin.png)
+![Employee Login](./EmployeeLogin.png.png)
 
 ---
 
@@ -69,7 +69,7 @@ Employees can:
 - Update task progress  
 - Mark tasks as **Completed** or **Failed**  
 
-![Task Summary](./TaskUpdates.png)
+![Task Summary](./TaskUpdates.png.png)
 
 ---
 
